@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="5b2f0c4d-ebdb-43dd-b2af-87401cfc4b69" name="verceldb@ep-fancy-hall-a1ugsi3r-pooler.ap-southeast-1.aws.neon.tech Mapping">
+      <data-sources db="d7e61bf4-b8af-42f2-bd52-9349afa93f10" ddl="b057e60c-f7c0-42c2-8c63-70c28b5f516a" />
+      <scope>
+        <node kind="database" qname="verceldb">
+          <node kind="schema" qname="public" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
